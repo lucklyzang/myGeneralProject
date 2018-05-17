@@ -1,0 +1,102 @@
+.taskTop .taskTopTitle{
+	padding-left:7%
+}
+.taskTop .taskTopTitle a{
+	display:inline-block;
+}
+.taskTop .taskTopTitle .dataSource{
+	position:relative;
+	width:26%;
+	height:36px;
+	background:#e54949;
+	margin-right: 36px;
+}
+.taskTop .taskTopTitle .dataSource .leftTriangle{
+	position:absolute;
+	top:0;
+	left:0;
+	width:0;
+	height:0;
+	border-left:24px solid #fff;
+	border-top:18px solid transparent;
+	border-bottom:18px solid transparent;
+}
+.taskTop .taskTopTitle .dataSource .rightTriangle{
+	position:absolute;
+	top:0;
+	right:-24px;
+	width:0;
+	height:0;
+	border-left:24px solid #e54949;
+	border-top:18px solid transparent;
+	border-bottom:18px solid transparent;
+}
+.taskTop .taskTopTitle .aStyle{
+	background:#8999d6
+}
+.taskTop .taskTopTitle .dataSource .middleText{
+	position:absolute;
+	top:23%;
+	left:50%;
+	color:#fff;
+	font-size:13px
+}
+.taskTop .taskTopTitle .dataSource .middleIndex{
+	position:absolute;
+	top:29%;
+	left:36%;
+	color:#fff;
+	font-size:13px;
+	width:14px;
+	height:14px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+	border-radius:7px;
+	background:#fff;
+	color:black;
+	text-align:center;
+	line-height:14px
+}
+.taskTop .taskNameBox{
+	margin-top:22px
+}
+.taskTop .taskNameBox .divText{
+	display:inline-block;
+	width:90%
+}
+.taskTop .taskNameBox .taskName{
+	margin-right:10px;
+	color: #333;
+    font-weight: normal;
+    font-size: 13px;
+}
+.taskTop  .taskDescribe{
+	margin-top:22px
+}
+.taskTop  .taskDescribe .divTextarea{
+	display:inline-block;
+	width:90%
+}
+.taskTop  .taskDescribe .taskDescribe{
+	margin-right:10px;
+	vertical-align: top;
+	color: #333;
+    font-weight: normal;
+    font-size: 13px;
+}
+.taskMiddle{
+	margin-top:50px
+}
+.taskMiddle .tableContent{
+	height:320px
+}
+.taskBottom{
+	margin-top:20px;
+	text-align:center;
+}
+.taskBottom a{
+	width: 16%;
+    border: 1px solid #d2cfcf;
+    margin-right:14px;
+    font-size:12px
+}

@@ -1,0 +1,54 @@
+
+.sourceConfigBox .sourceConfigTitle{
+	height:36px;
+	line-height:36px;
+	border-bottom:1px solid #d0c8c8;
+}
+.sourceConfigBox .sourceConfigTitle span{
+	font-size: 18px;
+    color: #6b6767;
+    font-weight: bolder;
+}
+.sourceConfigBox .sourceConfigTitle i{
+	font-size:26px;
+	color:red;
+	margin-right: 2%;
+}
+.sourceConfigBox .sourceConfigTable{
+	padding:30px 90px 10px 90px
+}
+.sourceConfigBox .sourceConfigTable .dataType{
+	margin-bottom:30px
+}
+.sourceConfigBox .sourceConfigTable .dataType .taskSourceType{
+	font-size:13px;
+	color:#a0a0a0;
+	font-weight:normal;
+	margin-right:10px;
+	width:20%;
+	text-align:right
+}
+.sourceConfigBox .sourceConfigTable .dataType  .divText{
+	display:inline-block;
+	width:70%;
+	position:relative
+}
+.sourceConfigBox .sourceConfigTable .dataType  .divText .explain{
+	position:absolute;
+	bottom:-20px;
+	left:0;
+	color:#a5a1a1;
+	font-size:10px
+}
+.sourceConfigBox .sourceConfigTable .dataType  .divText select{
+	font-size:13px;
+	color:#a0a0a0
+}
+.sourceConfigBox .sourceConfigTable .dataType .tcpSource{
+	font-size:13px;
+	color:#a0a0a0;
+	font-weight:normal;
+	margin-right:10px;
+	width:20%;
+	text-align:right
+}

@@ -1,0 +1,23 @@
+body{
+	font-family:"微软雅黑";
+}
+
+*{
+	margin:0;
+	padding:0
+}
+
+ul,li{
+	list-style:none
+}
+a{
+	display:inline-block !important;
+	text-decoration:none !important;
+	color:#4a4a4a !important
+}
+span{
+	display:inline-block !important
+}
+.bk{
+	outline:1px solid red
+}

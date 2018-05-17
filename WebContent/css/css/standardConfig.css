@@ -1,0 +1,87 @@
+.sourceConfigBox .sourceConfigTitle{
+	height:36px;
+	line-height:36px;
+	border-bottom:1px solid #d0c8c8;
+}
+.sourceConfigBox .sourceConfigTitle span{
+	font-size: 18px;
+    color: #6b6767;
+    font-weight: bolder;
+}
+.sourceConfigBox .sourceConfigTitle i{
+	font-size:26px;
+	color:#5be65b;
+	margin-right:2%;
+}
+.sourceConfigBox .sourceConfigTable{
+	padding:30px 90px 10px 90px
+}
+.sourceConfigBox .sourceConfigTable .dataType{
+	margin-bottom:30px
+}
+.sourceConfigBox .sourceConfigTable .dataType .taskSourceType{
+	font-size:13px;
+	color:#a0a0a0;
+	font-weight:normal;
+	margin-right:10px;
+	width:20%;
+	text-align:right
+}
+.sourceConfigBox .sourceConfigTable .dataType  .divText{
+	display:inline-block;
+	width:70%;
+	position:relative
+}
+.sourceConfigBox .sourceConfigTable .dataType .divChange{
+	position:relative;
+	margin-bottom:10px
+}
+.sourceConfigBox .sourceConfigTable .dataType .divEmpty{
+	margin-left:22.6%;
+	width:100%
+}
+.sourceConfigBox .sourceConfigTable .dataType .divChange span{
+	position:absolute;
+	top:10px;
+	width:16px;
+	height:16px;
+	background:#69dbef;
+	-moz-border-radius:8px;
+    -webkit-border-radius:8px;
+	border-radius:10px;
+	text-align:center;
+	line-height:16px;
+	color:#fff;
+	font-size:20px;
+	cursor:pointer
+}
+.sourceConfigBox .sourceConfigTable .dataType .divChange .add{
+	right:-30px
+}
+.sourceConfigBox .sourceConfigTable .dataType .divChange .reduce{
+	right:-55px
+}
+.sourceConfigBox .sourceConfigTable .dataType .radio{
+	width:10%
+}
+.sourceConfigBox .sourceConfigTable .dataType .radio label{
+	font-size:12px;
+	color:#666
+}
+.sourceConfigBox .sourceConfigTable .dataType .checkbox{
+	display:block;
+	width:70%;
+	margin-top:0
+}
+.sourceConfigBox .sourceConfigTable .dataType .checkWrapper{
+	display:inline-block;
+	width:60%
+}
+.sourceConfigBox .sourceConfigTable .dataType .tcpSource{
+	font-size:13px;
+	color:#a0a0a0;
+	font-weight:normal;
+	margin-right:10px;
+	width:20%;
+	text-align:right
+}

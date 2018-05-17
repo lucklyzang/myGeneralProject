@@ -1,0 +1,49 @@
+.wrapContent .leftList{
+	background:#f8f8f8;
+	border-right:1px solid #d1caca
+}
+.wrapContent .rightContent{
+	background:#f8f8f8
+}
+.wrapContent .leftList .leftListP{
+	width:100%;
+	padding-left:10%;
+	position:relative;
+	margin:0 !important;
+	height:30px;
+	line-height:30px
+}
+.wrapContent .rightContent .tableContent{
+	width:60%;
+	height:90%;
+	margin:0 auto;
+	background: #fff;
+	padding:22px 18px 0
+}
+.wrapContent .leftList .aStyle{
+	background:#c8e0f0;
+	color:#4a4a4a
+}
+.wrapContent .leftList .leftListU li{
+	height: 30px;
+    line-height: 30px;
+}
+.wrapContent .leftList .leftListU .liStyle{
+	background:#c8e0f0;
+	color:#4a4a4a
+}
+.wrapContent .leftList .leftListU li a{
+	padding-left:34%;
+	width:100%
+}
+.wrapContent .leftList .leftListU li a i{
+	margin-right:3%
+}
+.wrapContent .leftList .leftListP i{
+	color:black;
+	margin-right:3%
+}
+.wrapContent .leftList .leftListP .leftListSpan{
+	font-size:14px;
+	color:#4a4a4a;
+}
